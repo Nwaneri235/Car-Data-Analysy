@@ -70,3 +70,12 @@ Lastly, the analysis focused primarily on historical data, which may not fully a
 ### References
 
 Car Sales Dataset (1989 - 2024). 
+
+😄
+
+💻
+
+|Heading1|Heading2|
+|-------|--------|
+|Content1|Content2|
+
